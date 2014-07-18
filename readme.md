@@ -5,6 +5,7 @@ Ce langage proposera une syntaxe claire. Dans un premier temps, seules les fonct
 # Compilation
 Fichier `compile.hxml` :
 
+    -cp src
     -main Funclass
     -neko funclass.n
 

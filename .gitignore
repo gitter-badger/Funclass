@@ -1,4 +1,5 @@
 funclass.n
 funclass.exe
 compile.bat
+src/compile.bat
 compile.hxml

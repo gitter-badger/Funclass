@@ -17,7 +17,8 @@ Compilation et exécution :
 # Syntaxe
 ## Types
 * nombres
-* chaînes
+* chaines
+* booléen
 
 ## Affectation
     a = 6
@@ -48,7 +49,7 @@ Compilation et exécution :
 
 # Tests
     <, >, <=, >=, ==, <>
-    and or
+    and, or, not
 
 ## Calculs
-    + - * / % ^
+    +, -, *, /, %, ^

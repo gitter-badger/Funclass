@@ -3,6 +3,7 @@ Funclass est un projet personnel. Il s'agit d'un mini-langage de programmation q
 Ce langage proposera une syntaxe claire. Dans un premier temps, seules les fonctions les plus basiques seront implémentées pour pouvoir, au final, si possible, implémenter de l'objet.
 
 # Compilation
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/PifyZ/Funclass?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Fichier `compile.hxml` :
 
     -cp src
